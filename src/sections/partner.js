@@ -6,11 +6,11 @@ import Image from "components/image";
 import Partner from "assets/partner.svg";
 
 const data = {
-  subTitle: "",
+  subTitle: "Trolynhaxe",
   title: "Tối ưu hiệu quả kinh doanh vận tải cho doanh nghiệp của bạn",
   description:
-    "Trolynhaxe thay thế hoàn toàn các hình thức quản lí vận tải thủ công, đem đến giải pháp tiện lợi nhất cho nhà quản lý doanh nghiệp kiểm soát và tối ưu hóa chi phí & lợi nhuận.",
-  btnName: "Get Started",
+    "Đem đến giải pháp tiện lợi cho việc kiểm soát, tối ưu hoá chi phí và lợi nhuận chp doanh nghiệp.",
+  btnName: "Xem thêm",
   btnURL: "#",
 };
 

@@ -35,8 +35,8 @@ export default function Banner() {
             Giải pháp quản lý hành trình toàn diện
           </Heading>
           <Text as="p" variant="heroSecondary">
-            Cung cấp mọi công cụ kiểm soát hành trình vận tải của bạn, đem đến
-            một trải nghiệm quản lý hành trình hoàn toàn mới mẻ.
+            Cung cấp mọi công cụ kiểm soát hành trình vận tải, đem đến cho doanh
+            nghiệp của bạn một trải nghiệm quản lý hoàn toàn mới mẻ
           </Text>
           <Flex>
             <Button variant="whiteButton" aria-label="Khám phá">

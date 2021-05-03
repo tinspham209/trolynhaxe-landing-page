@@ -23,7 +23,7 @@ const data = [
     altText: "tai-xe",
     title: "Quản lý tài xế",
     text:
-      "Chỉnh sửa dữ liệu của tài xế, xem trạng thái tài xế theo thời gian thực một cách nhanh chóng.",
+      "Chỉnh sửa dữ liệu,xem trang thái của tài xế theo thời gian thực một cách nhanh chóng.",
   },
   {
     id: 3,
@@ -31,7 +31,7 @@ const data = [
     altText: "xe",
     title: "Quản lý xe",
     text:
-      "Chỉnh sửa dữ liệu phương tiện, thông tin giao hàng, truy xuất báo cáo chi phí.",
+      "Chỉnh sửa dữ liệu phương tiện, thông tin giao hàng, truy xuất thông tin chi phí.",
   },
   {
     id: 3,
@@ -71,7 +71,7 @@ const styles = {
     pt: [0, null, null, null, null, null, null, 3],
     gridGap: ["35px 0", null, "40px 0"],
     gridTemplateColumns: [
-      "repeat(2,1fr)",
+      "repeat(1,1fr)",
       null,
       "repeat(2,1fr)",
       null,

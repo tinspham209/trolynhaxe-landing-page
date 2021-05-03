@@ -1,98 +1,78 @@
 export default [
+  // {
+  //   header: "About Us",
+  //   items: [
+  //     {
+  //       path: "/",
+  //       label: "Trung tâm hỗ trợ",
+  //     },
+  //     {
+  //       path: "/",
+  //       label: "Hỗ trợ khách hàng",
+  //     },
+  //   ],
+  // },
   {
-    header: 'About Us',
+    header: "Thông tin doanh nghiệp",
     items: [
       {
-        path: '/',
-        label: 'Support Center',
+        path: "https://g.page/noorcoffeedn",
+        label: "Văn phòng: 30 Phan Thúc Duyện, quận Ngũ Hành Sơn, TP Đà Nẵng",
       },
       {
-        path: '/',
-        label: 'Customer Support',
+        path: "mailto:trolynhaxe@gmail.com",
+        label: "Email: trolynhaxe@gmail.com",
       },
       {
-        path: '/',
-        label: 'About Us',
-      },
-      {
-        path: '/',
-        label: 'Copyright',
-      },
-      {
-        path: '/',
-        label: 'Popular Campaign',
+        path: "tel:0935193182",
+        label: "SĐT: (+84)935.193.182 (Mr. Hoà)",
       },
     ],
   },
-  {
-    header: 'Our Information',
-    items: [
-      {
-        path: '/',
-        label: 'Return Policy ',
-      },
-      {
-        path: '/',
-        label: 'Privacy Policy',
-      },
-      {
-        path: '/',
-        label: 'Terms & Conditions',
-      },
-      {
-        path: '/',
-        label: 'Site Map',
-      },
-      {
-        path: '/',
-        label: 'Store Hours',
-      },
-    ],
-  },
-  {
-    header: 'My Account',
-    items: [
-      {
-        path: '/',
-        label: 'Press inquiries',
-      },
-      {
-        path: '/',
-        label: 'Social media ',
-      },
-      {
-        path: '/',
-        label: 'directories',
-      },
-      {
-        path: '/',
-        label: 'Images & B-roll',
-      },
-      {
-        path: '/',
-        label: 'Permissions',
-      },
-    ],
-  },
-  {
-    header: 'Policy',
-    items: [
-      {
-        path: '/',
-        label: 'Application security',
-      },
-      {
-        path: '/',
-        label: 'Software principles',
-      },
-      {
-        path: '/',
-        label: 'Unwanted software policy',
-      },
-      {
-        path: '/',
-        label: 'Responsible supply chain',
-      },
-    ],
-  },
+  // {
+  //   header: "My Account",
+  //   items: [
+  //     {
+  //       path: "/",
+  //       label: "Press inquiries",
+  //     },
+  //     {
+  //       path: "/",
+  //       label: "Social media ",
+  //     },
+  //     {
+  //       path: "/",
+  //       label: "directories",
+  //     },
+  //     {
+  //       path: "/",
+  //       label: "Images & B-roll",
+  //     },
+  //     {
+  //       path: "/",
+  //       label: "Permissions",
+  //     },
+  //   ],
+  // },
+  // {
+  //   header: "Chính sách bảo mật",
+  //   items: [
+  //     {
+  //       path: "/",
+  //       label: "Application security",
+  //     },
+  //     {
+  //       path: "/",
+  //       label: "Software principles",
+  //     },
+  //     {
+  //       path: "/",
+  //       label: "Unwanted software policy",
+  //     },
+  //     {
+  //       path: "/",
+  //       label: "Responsible supply chain",
+  //     },
+  //   ],
+  // },
 ];

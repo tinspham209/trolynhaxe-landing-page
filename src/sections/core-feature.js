@@ -10,7 +10,7 @@ import Winner from "assets/feature/winner.svg";
 
 const data = {
   subTitle: "Tại sao nên chọn Trolynhaxe?",
-  title: "Nhanh chóng & Chính xác & Tiện lợi",
+  title: "Nhanh chóng - Chính xác - Tiện lợi",
   features: [
     {
       id: 1,
@@ -31,7 +31,7 @@ const data = {
       imgSrc: Setting,
       altText: "Tiện lợi",
       title: "Tiện lợi",
-      text: "Quản lý phương tiện và hành trình chỉ với điện thoại.",
+      text: "Quản lý phương tiện và hành trình chỉ với một điện thoại.",
     },
   ],
 };
