@@ -31,7 +31,7 @@ export default function Banner() {
     <section sx={styles.banner} id="home">
       <Container sx={styles.banner.container}>
         <Box sx={styles.banner.contentBox}>
-          <Heading as="h1" variant="heroPrimary">
+          <Heading as="h2" variant="heroPrimary">
             Giải pháp quản lý hành trình toàn diện
           </Heading>
           <Text as="p" variant="heroSecondary">
